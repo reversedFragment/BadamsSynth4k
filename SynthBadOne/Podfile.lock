@@ -1,0 +1,20 @@
+PODS:
+  - Audiobus (3.0.5)
+  - AudioKit/UI (4.3)
+
+DEPENDENCIES:
+  - Audiobus
+  - AudioKit/UI (~> 4.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Audiobus
+    - AudioKit
+
+SPEC CHECKSUMS:
+  Audiobus: 7e25081005aed75e8170ad3f5a904acf90e1d73b
+  AudioKit: 95bd2427c1afa7954d71b0c6195a09b87b7448bc
+
+PODFILE CHECKSUM: 608937d1400a5bf12cb26c407088b2527303d8c8
+
+COCOAPODS: 1.5.2
