@@ -1,0 +1,6 @@
+framework module Pods_SynthBadOne {
+  umbrella header "Pods-SynthBadOne-umbrella.h"
+
+  export *
+  module * { export * }
+}
